@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Столовые</string>
+    <string name="settings">Настройки</string>
+    <string name="save">Сохранить</string>
+    <string name="off">Считыватель отключен</string>
+    <string name="on">Считыватель включен</string>
+    <string name="back_button">Назад</string>
+    <string name="confirm_button">Готово</string>
+    <string name="update_employee_db_button">Обновить БД сотрудников</string>
+    <string name="update_directory_button">Обновить справочники</string>
+    <string name="last_update_text">Последнее обновление:</string>
+    <string name="clear_db_button">Отчистить справочники</string>
+    <string name="clarifying_text">Вы уверены?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="ok">Ок</string>
+    <string name="imei_text">IMEI устройства</string>
+    <string name="mac_text">MAC-адрес считывателя</string>
+    <string name="settings_button">Настройки</string>
+    <string name="save_button">Сохранить</string>
+    <string name="user_password_field">Пароль</string>
+    <string name="auth_button">Войти</string>
+</resources>
